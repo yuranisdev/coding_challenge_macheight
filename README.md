@@ -5,14 +5,14 @@ This program is developed by Python 3.x.
 You should install the python 3.x.
 
     python index.py 1,9,5,0,20,-4,12,16,7 12
-
+​
+​
 ### Mach Eight Sample Project
 ​
 Thank you for taking the time to complete this sample project. We're a tech
 first company and we value our engineers tremendously. We're are looking for
 hard working, smart engineers with either excellent experience or lots of
 potential.
-​
 ​
 ## Task
 ​
