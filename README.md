@@ -5,7 +5,7 @@
 This program is developed by Python 3.x.
 You should install the python 3.x.
 
-    python index.py 1,9,5,0,20,-4,12,16,7 12
+`$ python index.py 1,9,5,0,20,-4,12,16,7 12`
 ​
 ### Mach Eight Sample Project
 ​
